@@ -4,3 +4,6 @@
 
 
 Para rodar este projeto você precisa de Java na sua máquina.
+```
+node app.java
+```
